@@ -1,0 +1,16 @@
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/beans/MetadataBean.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/daos/MSServiceDao.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/crawler/MyCrawler.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/resources/WebSite.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/logger/MyLogger.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/elastic/ElasticSearch.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/beans/PreferenceBean.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/daos/MSWebSiteDao.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/beans/ServicesBean.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/scheduling/Scheduling.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/resources/MyHTTPConduitConfigurer.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/crawler/Crawler.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/utils/Utils.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/daos/MSPreferenceDao.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/scheduling/Command.java
+/Users/sofiacantarelli/Documents/DAS/Crawler/src/ar/edu/ubp/das/beans/WebSiteBean.java

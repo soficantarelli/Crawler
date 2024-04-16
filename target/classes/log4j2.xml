@@ -1,0 +1,24 @@
+<Configuration status="info"> 
+    <Appenders> 
+        <Console name="Console" target="SYSTEM_OUT">
+	      	<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+	    </Console>
+        <File name="FILE" fileName="app.log"> 
+          	<JsonLayout complete="false" compact="false"/>
+        </File>
+    </Appenders> 
+    <Loggers> 
+        <Logger name="org.hibernate.SQL" level="DEBUG"> 
+            <AppenderRef ref="FILE"/>
+            <AppenderRef ref="Console"/>
+        </Logger> 
+        <Logger name="org.hibernate.type.descriptor.sql" level="TRACE"> 
+            <AppenderRef ref="FILE"/>
+            <AppenderRef ref="Console"/>
+        </Logger> 
+        <Root level="info"> 
+            <AppenderRef ref="FILE"/>
+            <AppenderRef ref="Console"/>
+        </Root> 
+    </Loggers> 
+</Configuration>
